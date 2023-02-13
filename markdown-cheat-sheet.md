@@ -123,5 +123,3 @@ X<sup>2</sup>
 `rgb(9, 105, 218)`
 
 `hsl(212, 92%, 45%)`
-
-This site was built using [GitHub Pages](https://pages.github.com/).
