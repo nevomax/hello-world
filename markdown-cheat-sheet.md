@@ -108,7 +108,7 @@ That is so funny! :joy:
 
 ### Highlight
 
-I need to highlight these ==very important words==.
+I need to highlight these **very _important_ words**.
 
 ### Subscript
 
